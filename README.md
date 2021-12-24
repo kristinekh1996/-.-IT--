@@ -8,3 +8,5 @@ git init
 Команда git init используется для инициализации локального репозитория.
 
 <img src="https://b.radikal.ru/b38/2112/34/89b9e5b164e1.jpg" />
+
+<img src="https://b.radikal.ru/b38/2112/34/89b9e5b164e1.jpg" />
