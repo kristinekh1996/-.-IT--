@@ -18,4 +18,4 @@ https://github.com/kristinekh1996/kristinekh1996/blob/main/sckin/GitHub1..png?ra
 
 [sckin/GitHub1..png](https://github.com/kristinekh1996/kristinekh1996/blob/main/sckin/GitHub1..png?raw=true.png)
 
-{path}sckin/GitHub1..png
+{sckin/GitHub1..png}
