@@ -15,3 +15,7 @@ sckin/GitHub1..png
 https://github.com/kristinekh1996/kristinekh1996/blob/384477d5fc27dd0192e105ed904bdf1eb97cbab7/sckin/GitHub1..png
 
 https://github.com/kristinekh1996/kristinekh1996/blob/main/sckin/GitHub1..png?raw=true
+
+[sckin/GitHub1..png](https://github.com/kristinekh1996/kristinekh1996/blob/main/sckin/GitHub1..png?raw=true.png)
+
+{path}sckin/GitHub1..png
